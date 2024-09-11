@@ -1,0 +1,83 @@
+.container
+{
+    padding-top: 1%;
+}
+.container-content
+{
+    background-color: rgb(148, 148, 148);
+    width: 100%;
+    padding: 20px;
+    border-radius: 50px;
+    margin: 10% 0;
+ 
+}
+.txt
+{
+    margin-bottom: 6%;
+    
+    margin-top: 3%;
+}
+.row
+{   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input
+{
+    gap: 2%;
+}
+input
+{
+    border-radius:10px ;
+    border-style: none;
+}
+.input-number
+{
+    width: 30%;
+}
+.input-name
+{
+    width: 60%;
+}
+.btns
+{
+    margin: 10% 0;
+    gap: 4%;
+}
+.btn2
+{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: rgb(158, 31, 31);
+    border-radius: 40px;
+    border-style: none;
+  
+}
+.btn1
+{
+    width: 150px;
+    height: 50px;
+    border-radius: 40px;
+    border-style: none;
+    color: white;
+    background-color: rgb(52, 82, 172);
+}
+.btn1:hover
+{
+    background-color: rgb(20, 20, 64);
+}
+.btn2:hover
+{
+    background-color: rgb(134, 3, 3);
+}
+
+
+
+
+
+
+
+
+
